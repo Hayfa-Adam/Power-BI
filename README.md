@@ -5,4 +5,4 @@
 I have a strong knowledge of Power BI and I have completed projects that involved using Power BI to visualize data and create dashboards. I have learned how to design dashboards that are not only visually appealing but also highly functional, ensuring that they meet the specific needs and objectives of the users. 
 you can check my Power BI Project at :
 
-https://sites.google.com/d/1MrpxEfTSRbglsl_hrzVTTZ2Bf-mWD_od/p/1wsEUOCM6UqfASvtZVJThYioOJX0wFtKn/edit
+[Visit my website] (https://sites.google.com/view/hayfaadam/project-page/power-bi)
